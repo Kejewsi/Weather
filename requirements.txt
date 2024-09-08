@@ -1,0 +1,6 @@
+pip install argparse
+pip install emojii
+pip install geopy
+pip install pytest
+pip install re
+pip install requests
